@@ -8,7 +8,7 @@
 
 4- after run tomcat in the project, access the url => http://localhost:8080/felipe-bb/login
 
-5- user: admin passwd: admin
+5- user: **admin** passwd: **admin**
 
 6- URLs endpoints
 
