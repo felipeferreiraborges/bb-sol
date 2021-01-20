@@ -1,0 +1,17 @@
+com\sol\felipe\model\BBModel.class
+com\sol\felipe\config\SecurityWebApplicationInitializer.class
+com\sol\felipe\model\Value.class
+com\sol\felipe\model\Holder.class
+com\sol\felipe\model\OtherAccount.class
+com\sol\felipe\model\Transaction.class
+com\sol\felipe\model\NewBalance.class
+com\sol\felipe\model\ThisAccount.class
+com\sol\felipe\config\MySpringMvcDispatcherServletInitializer.class
+com\sol\felipe\model\Root.class
+com\sol\felipe\config\SecurityConfig.class
+com\sol\felipe\controller\BBController$1.class
+com\sol\felipe\controller\BBController.class
+com\sol\felipe\config\AppConfig.class
+com\sol\felipe\model\Bank.class
+com\sol\felipe\model\Details.class
+com\sol\felipe\model\Metadata.class
